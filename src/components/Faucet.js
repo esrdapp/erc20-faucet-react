@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button'
 import Message from './Message'
 
-const tokenAddress = "0xA4eE602c16C448Dc0D1fc38E6FC12f0d6C672Cbe"
+const tokenAddress = "0xE48B9e36c3a88CcBD8F45347bFC3Fa9B79F86c0e"
 
 const Faucet = (props) => {
 
